@@ -1,0 +1,158 @@
+#logonavbar {
+    height:70px;
+}
+
+.navbar{
+    background-color: blue;
+    text-decoration: none;
+    color: red !important;
+    font-size: bold;
+}
+
+#div1{
+    margin: 5%;
+  color:yellow;
+  background-color: blue;
+  font-weight: bold;
+  font-size: 120%;
+}
+#div2{
+    margin: 5%;
+    color:yellow;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.personnages{
+    background-image: url(https://images.alphacoders.com/605/605799.jpg);
+    background-size: cover;
+}
+
+#index{
+    background-image: url(https://static.zerochan.net/DRAGON.BALL.full.435656.jpg);
+    background-size: cover;
+}
+
+.titrepresentation{
+    background-color: blue;
+    color: yellow;
+    border: 3px solid yellow;
+    margin:3% 40% ;
+
+    padding: 0;
+    display: inline-block;
+    padding:1%;
+
+}
+
+
+.police{
+   margin-left: 5%;
+   padding: 1%;
+   background-color: blue;
+   color:yellow;
+   font-weight: bold;
+   font-size: 120%;
+  
+}
+.page{
+    margin-left: 1%;
+    padding: 1%;
+    background-color: blue;
+    color:yellow;
+    font-weight: bold;
+    font-size: 120%;
+}
+.background{
+    margin-left: 1%;
+    padding: 1%;
+    background-color: blue;
+    color:yellow;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.imagecarte{
+    height:300px;
+    width:200px;
+    margin: 0 auto;
+}
+
+
+
+.titrepersonnages{
+    background-color: blue;
+    color: yellow;
+    border: 3px solid yellow;
+    margin:5% 40%;
+
+    padding: 0;
+    display: inline-block;
+    padding:1%;
+
+}
+
+.roww{
+    margin-right: 0;
+    margin-left: 0;
+    margin-top:5%;
+    margin-bottom:5%;
+}
+
+.cartee{
+    border:9px solid yellow;
+    background-color: blue;
+    color: yellow;
+    text-align: center;
+}
+#invisible1{
+    display: none;
+}
+
+#invisible2{
+    display: none;
+}
+#invisible3{
+    display: none;
+}
+#invisible4{
+    display: none;
+}
+
+#divvisible1{
+    width:200px;
+    margin:5% auto;
+}
+
+
+#divvisible2{
+    width:200px;
+    margin:5% auto;
+}
+
+#divvisible3{
+    width:200px;
+    margin:5% auto;
+}
+
+
+#divvisible4{
+    width:200px;
+    margin:5% auto;
+}
+
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+
+.bouton {
+    margin-left:5%;
+}
+
+.bouton button {
+    background-color: blue;
+    color: yellow;
+    font-weight: bold;
+    border: 2px solid yellow;
+}

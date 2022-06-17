@@ -66,4 +66,11 @@ var lien = document.getElementById('page');
 
 lien.addEventListener('click',function(){
     window.location.href = 'https://fr.dragon-ball-official.com/'
-}) 
+}) ;
+
+
+var logo = document.getElementById('logonavbar')
+
+logo.addEventListener('dblclick', function () {
+    window.location.href = 'https://fr.dragon-ball-official.com/'
+});
